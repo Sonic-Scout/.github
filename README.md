@@ -27,7 +27,7 @@ Current status of Sonic Scout features:
 
 ### **Website**  
 Check out our website: 
-<a href="https://sonicscout.tech/" target="_blank">Visit Sonic Scout</a>
+**<a href="https://sonicscout.tech/" target="_blank">Visit Sonic Scout</a>**
 
 
 ### 🛠 **Developer Resources**
