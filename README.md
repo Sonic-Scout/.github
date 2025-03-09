@@ -18,11 +18,11 @@ Sonic Scout is an **AI-powered DeFi intelligence platform** designed to simplify
 📅 **Q3 2025** – Multi-chain expansion, improved AI predictions, and portfolio tracking.  
 📅 **Q4 2025** – Advanced analytics, premium features, and community-driven governance.  
 
-# **Getting Started**  
-To start using Sonic Scout, follow these steps:  
+# **Feature Status**  
+Current status of Sonic Scout features:  
 1️⃣ **Connect your Twitter** – ✅ Live  
 2️⃣ **Auto-generate your wallet** – ✅ Live  
-3️⃣ **Explore DeFi projects** –⏳ Coming Soon  
+3️⃣ **Explore DeFi projects** –⏳ In Development  
 4️⃣ **Analyze and invest** - ⏳ Coming Soon  
 
 ### **Website**  
