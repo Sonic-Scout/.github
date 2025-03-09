@@ -3,6 +3,8 @@
 ### **Overview**  
 Sonic Scout is an **AI-powered DeFi intelligence platform** designed to simplify investment decisions. With real-time data analysis, predictive insights, and seamless token trading, Sonic Scout helps users navigate the fast-growing DeFi landscape with confidence.  
 
+
+
 ### **Key Features**  
 ✅ **AI-Powered Research** – Get in-depth analysis on tokenomics, project credibility, and market trends.  
 ✅ **Instant Wallet Generation** – Connect via Twitter, and Sonic Scout automatically creates a non-custodial wallet.  
@@ -24,7 +26,7 @@ To start using Sonic Scout, follow these steps:
 4️⃣ **Analyze and invest** - ⏳ Coming Soon  
 
 ### **Website**  
-Check out our website: [Visit Sonic Scout](https://sonicscout.tech/)
+Check out our website: **[Visit Sonic Scout](https://sonicscout.tech/)**
 
 ### 🛠 **Developer Resources**
 
@@ -35,6 +37,6 @@ Repositories:
 [Sonic Scout Next.js](https://github.com/Sonic-Scout/sonic-scout-next)**
 
 # **Our Social**  
-📢 **Twitter** – [🔗 @SonicScout](https://x.com/SonicScoutAI)  
-📢 **YakiHonne** – [🔗 Invite Link](https://yakihonne.com/users/npub1fc639evlfrfez9egzy7kx9g2zdex7mwyrqyv243hvq4224526xlqgzap54)
+📢 **Twitter** – [@SonicScoutAI](https://x.com/SonicScoutAI)  
+📢 **YakiHonne** – [@SonicScoutAI](https://yakihonne.com/users/npub1fc639evlfrfez9egzy7kx9g2zdex7mwyrqyv243hvq4224526xlqgzap54)
 
