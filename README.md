@@ -1,4 +1,4 @@
-# **Discover Sonic Scout**  
+# **⚡ Discover Sonic Scout**  
 
 ### **Overview**  
 Sonic Scout is an **AI-powered DeFi intelligence platform** designed to simplify investment decisions. With real-time data analysis, predictive insights, and seamless token trading, Sonic Scout helps users navigate the fast-growing DeFi landscape with confidence.  
