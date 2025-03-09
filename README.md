@@ -26,7 +26,9 @@ Current status of Sonic Scout features:
 4️⃣ **Analyze and invest** - ⏳ Coming Soon  
 
 ### **Website**  
-Check out our website: **[Visit Sonic Scout](https://sonicscout.tech/)**
+Check out our website: 
+<a href="https://sonicscout.tech/" target="_blank">Visit Sonic Scout</a>
+
 
 ### 🛠 **Developer Resources**
 
